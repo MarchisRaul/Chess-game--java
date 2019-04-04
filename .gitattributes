@@ -1,2 +1,11 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+La rularea programului, va fi afisata in consola o tabla de sah, pe care se afla piesele din joc. 
+Piesele cu litera mica fac parte din piesele unui jucator, iar cele cu litera mare fac parte din piesele unui alt jucator.
+Se vor afisa coordonatele la care se afla fiecare piesa, iar pentru a verifica mutarea, se introduc coordonatele unei piese curente,
+respectiv coordonata unde se doreste mutarea.
+
+P / p -> pion
+N / n -> nebun
+C / c -> cal
+K / k -> rege
+T / t -> tura
+Q / q -> regina
